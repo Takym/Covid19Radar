@@ -745,6 +745,24 @@ namespace Covid19Radar.Resources {
         }
         
         /// <summary>
+        ///   Contact confirmation settings are all enabled. に類似しているローカライズされた文字列を検索します。
+        /// </summary>
+        internal static string HomePageDescription6 {
+            get {
+                return ResourceManager.GetString("HomePageDescription6", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Contact confirmation settings are disabled. Please turn notifications and recording on. に類似しているローカライズされた文字列を検索します。
+        /// </summary>
+        internal static string HomePageDescription7 {
+            get {
+                return ResourceManager.GetString("HomePageDescription7", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Help protect your family and friends by anonymously registering test results. に類似しているローカライズされた文字列を検索します。
         /// </summary>
         internal static string HomePageHeader2Description {
