@@ -72,7 +72,7 @@ namespace Covid19Radar.ViewModels
                 IconColor = "#019AE8",
                 TextColor = "#000"
             });
-            /*
+            //*
 #if DEBUG
             MenuItems.Add(new MainMenuModel()
             {
