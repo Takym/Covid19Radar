@@ -61,7 +61,7 @@ namespace Covid19Radar.Resources {
         }
         
         /// <summary>
-        ///   COVID-19 Contact App に類似しているローカライズされた文字列を検索します。
+        ///   Covid19Radar に類似しているローカライズされた文字列を検索します。
         /// </summary>
         internal static string AppName {
             get {
@@ -286,6 +286,15 @@ namespace Covid19Radar.Resources {
         }
         
         /// <summary>
+        ///   Count に類似しているローカライズされた文字列を検索します。
+        /// </summary>
+        internal static string ExposureCountUnit {
+            get {
+                return ResourceManager.GetString("ExposureCountUnit", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Process number incorrect に類似しているローカライズされた文字列を検索します。
         /// </summary>
         internal static string ExposureNotificationHandler1ErrorMessage {
@@ -367,7 +376,7 @@ namespace Covid19Radar.Resources {
         }
         
         /// <summary>
-        ///   Exposure Notification is not supported. Please update the OS to the latest version. If you still have problems, please contact us at appsupport@cov19.mhlw.go.jp. に類似しているローカライズされた文字列を検索します。
+        ///   Exposure Notification is not supported. Please update the OS to the latest version. If you still have problems, please contact us at appsupport@yourhealthcaredivmailaddress.org. に類似しているローカライズされた文字列を検索します。
         /// </summary>
         internal static string ExposureNotificationStatusMessageUnknown {
             get {
@@ -979,7 +988,7 @@ namespace Covid19Radar.Resources {
         }
         
         /// <summary>
-        ///   Please enter a process code issued to you by &quot;Health Center Real-time Information-sharing System on COVID-19 (HER-SYS)&quot;. に類似しているローカライズされた文字列を検索します。
+        ///   Please enter a process code issued to you by &quot;Healthcare Authority Validation Code&quot;. に類似しているローカライズされた文字列を検索します。
         /// </summary>
         internal static string NotifyOtherPageDescription1 {
             get {
@@ -1159,7 +1168,7 @@ namespace Covid19Radar.Resources {
         }
         
         /// <summary>
-        ///   https://microsoft.com/ に類似しているローカライズされた文字列を検索します。
+        ///   https://github.com/Covid-19Radar/Covid19Radar に類似しているローカライズされた文字列を検索します。
         /// </summary>
         internal static string NotifyOthersLearnMoreUrl {
             get {
@@ -1395,9 +1404,9 @@ namespace Covid19Radar.Resources {
         /// <summary>
         ///   Status Settings に類似しているローカライズされた文字列を検索します。
         /// </summary>
-        internal static string TitileUserStatusSettings {
+        internal static string TitleUserStatusSettings {
             get {
-                return ResourceManager.GetString("TitileUserStatusSettings", resourceCulture);
+                return ResourceManager.GetString("TitleUserStatusSettings", resourceCulture);
             }
         }
         
@@ -1663,7 +1672,7 @@ namespace Covid19Radar.Resources {
         }
         
         /// <summary>
-        ///   https://covid19radarjpnprod.z11.web.core.windows.net/en/index.html に類似しているローカライズされた文字列を検索します。
+        ///   https://covid19radar.z11.web.core.windows.net/index.html に類似しているローカライズされた文字列を検索します。
         /// </summary>
         internal static string UrlContactedForm {
             get {
@@ -1672,7 +1681,7 @@ namespace Covid19Radar.Resources {
         }
         
         /// <summary>
-        ///   https://covid19radarjpnprod.z11.web.core.windows.net/phone.json に類似しているローカライズされた文字列を検索します。
+        ///   https://covid19radar.z11.web.core.windows.net/phone.json に類似しているローカライズされた文字列を検索します。
         /// </summary>
         internal static string UrlContactedPhone {
             get {
@@ -1681,7 +1690,7 @@ namespace Covid19Radar.Resources {
         }
         
         /// <summary>
-        ///   https://www.mhlw.go.jp/stf/seisakunitsuite/english_pp_00032.html に類似しているローカライズされた文字列を検索します。
+        ///   https://covid19radar.z11.web.core.windows.net/sample_pp.html に類似しているローカライズされた文字列を検索します。
         /// </summary>
         internal static string UrlPrivacyPolicy {
             get {
@@ -1690,7 +1699,7 @@ namespace Covid19Radar.Resources {
         }
         
         /// <summary>
-        ///   https://www.mhlw.go.jp/stf/seisakunitsuite/english_rk_00031.html に類似しているローカライズされた文字列を検索します。
+        ///   https://covid19radar.z11.web.core.windows.net/sample_tu.html に類似しているローカライズされた文字列を検索します。
         /// </summary>
         internal static string UrlTermOfUse {
             get {
@@ -1699,7 +1708,7 @@ namespace Covid19Radar.Resources {
         }
         
         /// <summary>
-        ///   https://covid19radarjpnprod.z11.web.core.windows.net/version.json に類似しているローカライズされた文字列を検索します。
+        ///   https://covid19radar.z11.web.core.windows.net/version.json に類似しているローカライズされた文字列を検索します。
         /// </summary>
         internal static string UrlVersion {
             get {

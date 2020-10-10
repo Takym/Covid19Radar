@@ -28,7 +28,7 @@
 	<key>CFBundleName</key>
 	<string>Covid19Radar</string>
 	<key>CFBundleDisplayName</key>
-	<string>接触確認アプリ</string>
+	<string>Covid19Radar</string>
 	<key>CFBundleIdentifier</key>
 	<string>APP_PACKAGE_NAME</string>
 	<key>CFBundleVersion</key>
@@ -54,15 +54,6 @@
 	<key>BGTaskSchedulerPermittedIdentifiers</key>
 	<array>
 		<string>APP_PACKAGE_NAME.exposure-notification</string>
-	</array>
-	<key>UIAppFonts</key>
-	<array>
-		<string>fa-brands-400.otf</string>
-		<string>fa-regular-400.otf</string>
-		<string>fa-solid-900.otf</string>
-		<string>NotoSansCJKjp-Medium.otf</string>
-		<string>NotoSansCJKjp-Regular.otf</string>
-		<string>Roboto-Regular.ttf</string>
 	</array>
 	<key>UILaunchStoryboardName</key>
 	<string>LaunchScreen</string>

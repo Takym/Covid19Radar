@@ -28,10 +28,10 @@
     <comment>ライセンス</comment>
   </data>
   <data name="UrlPrivacyPolicy" xml:space="preserve">
-    <value>https://www.mhlw.go.jp/stf/seisakunitsuite/english_pp_00032.html</value>
+    <value>https://covid19radar.z11.web.core.windows.net/sample_pp.html</value>
     <comment>Policy</comment>
   </data>
-  <data name="TitileUserStatusSettings" xml:space="preserve">
+  <data name="TitleUserStatusSettings" xml:space="preserve">
     <value>स्टेटस सेटिंग</value>
     <comment>User Status Page Title</comment>
   </data>
@@ -50,7 +50,7 @@
     <comment>Tab Button</comment>
   </data>
   <data name="NotifyOthersLearnMoreUrl" xml:space="preserve">
-    <value>https://microsoft.com/</value>
+    <value>https://github.com/Covid-19Radar/Covid19Radar</value>
     <comment>Health care jurisdiction page</comment>
   </data>
   <data name="MainTutorial" xml:space="preserve">
@@ -451,7 +451,7 @@
   </data>
   <data name="NotifyOtherPageDescription1" xml:space="preserve">
     <value>कृपया "स्वास्थ्य केंद्र वास्तविक समय सूचना-COVID-19 (HER-SYS) पर साझा प्रणाली द्वारा आप के लिए जारी एक प्रक्रिया कोड दर्ज करें" ।</value>
-    <comment>新型コロナウイルス感染症者等情報把握・管理支援システム（HER-SYS）から発行された処理番号を入力してください。</comment>
+    <comment>Healthcare Authority Validation Codeを入力してください。</comment>
   </data>
   <data name="NotifyOtherPageDescription2" xml:space="preserve">
     <value>जो उपयोगकर्ता पिछले 14 दिनों के भीतर आपके साथ निकट संपर्क में थे, उन्हें अधिसूचित किया जाएगा। पंजीकरण गुमनाम है। इसके लिए आपको अपना नाम या कोई अन्य व्यक्तिगत जानकारी दर्ज नहीं करनी होगी। निकट संपर्क के स्थान के बारे में कोई जानकारी दर्ज नहीं की गई है।</value>
@@ -570,14 +570,14 @@
     <comment>以下の日に陽性者との接触が確認されました。</comment>
   </data>
   <data name="UrlTermOfUse" xml:space="preserve">
-    <value>https://www.mhlw.go.jp/stf/seisakunitsuite/english_rk_00031.html</value>
+    <value>https://covid19radar.z11.web.core.windows.net/sample_tu.html</value>
     <comment>Term of Use</comment>
   </data>
   <data name="UrlContactedForm" xml:space="preserve">
-    <value>https://covid19radarjpnprod.z11.web.core.windows.net/en/index.html</value>
+    <value>https://covid19radar.z11.web.core.windows.net/index.html</value>
   </data>
   <data name="UrlContactedPhone" xml:space="preserve">
-    <value>https://covid19radarjpnprod.z11.web.core.windows.net/phone.json</value>
+    <value>https://covid19radar.z11.web.core.windows.net/phone.json</value>
   </data>
   <data name="LocalNotificationDescription" xml:space="preserve">
     <value>यह संभव है कि आप एक उपयोगकर्ता के करीब निकटता में रहे हैं, जिसने COVID-19 के लिए सकारात्मक परीक्षण किया है।  अधिक जानकारी के लिए टैप करें।</value>
@@ -632,8 +632,8 @@
     <comment>COVID-19接触通知機能が承認されていません。各OSから承認するか、またはアプリの再インストール後に、再承認してください。</comment>
   </data>
   <data name="ExposureNotificationStatusMessageUnknown" xml:space="preserve">
-    <value>एक्सपोजर अधिसूचना का समर्थन नहीं किया जाता है। ओएस को नवीनतम संस्करण में अपडेट करें। यदि आपको अभी भी समस्या है, तो कृपया हमसे appsupport@cov19.mhlw.go.jp पर संपर्क करें।</value>
-    <comment>Exposure Notification機能は非対応の状態です。OSを最新版にアップデートしてください。それでも改善しなければ、appsupport@cov19.mhlw.go.jpまでお問い合わせください。</comment>
+    <value>एक्सपोजर अधिसूचना का समर्थन नहीं किया जाता है। ओएस को नवीनतम संस्करण में अपडेट करें। यदि आपको अभी भी समस्या है, तो कृपया हमसे appsupport@yourhealthcaredivmailaddress.org पर संपर्क करें।</value>
+    <comment>Exposure Notification機能は非対応の状態です。OSを最新版にアップデートしてください。それでも改善しなければ、appsupport@yourhealthcaredivmailaddress.orgまでお問い合わせください。</comment>
   </data>
   <data name="DialogNetworkConnectionErrorTitle" xml:space="preserve">
     <value>नेटवर्क कनेक्शन त्रुटि</value>
@@ -708,7 +708,7 @@
     <comment>該当接触なし</comment>
   </data>
   <data name="UrlVersion" xml:space="preserve">
-    <value>https://covid19radarjpnprod.z11.web.core.windows.net/version.json</value>
+    <value>https://covid19radar.z11.web.core.windows.net/version.json</value>
   </data>
   <data name="AppUtilsGetNewVersionDescription" xml:space="preserve">
     <value>ऐप का एक नया संस्करण उपलब्ध है। कृपया नवीनतम संस्करण के लिए अद्यतन करें।</value>
