@@ -1,17 +1,17 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <root>
-  <!-- 
-    Microsoft ResX Schema 
-    
+  <!--
+    Microsoft ResX Schema
+
     Version 2.0
-    
-    The primary goals of this format is to allow a simple XML format 
-    that is mostly human readable. The generation and parsing of the 
-    various data types are done through the TypeConverter classes 
+
+    The primary goals of this format is to allow a simple XML format
+    that is mostly human readable. The generation and parsing of the
+    various data types are done through the TypeConverter classes
     associated with the data types.
-    
+
     Example:
-    
+
     ... ado.net/XML headers & schema ...
     <resheader name="resmimetype">text/microsoft-resx</resheader>
     <resheader name="version">2.0</resheader>
@@ -26,36 +26,36 @@
         <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
         <comment>This is a comment</comment>
     </data>
-                
-    There are any number of "resheader" rows that contain simple 
+
+    There are any number of "resheader" rows that contain simple
     name/value pairs.
-    
-    Each data row contains a name, and value. The row also contains a 
-    type or mimetype. Type corresponds to a .NET class that support 
-    text/value conversion through the TypeConverter architecture. 
-    Classes that don't support this are serialized and stored with the 
+
+    Each data row contains a name, and value. The row also contains a
+    type or mimetype. Type corresponds to a .NET class that support
+    text/value conversion through the TypeConverter architecture.
+    Classes that don't support this are serialized and stored with the
     mimetype set.
-    
-    The mimetype is used for serialized objects, and tells the 
-    ResXResourceReader how to depersist the object. This is currently not 
+
+    The mimetype is used for serialized objects, and tells the
+    ResXResourceReader how to depersist the object. This is currently not
     extensible. For a given mimetype the value must be set accordingly:
-    
-    Note - application/x-microsoft.net.object.binary.base64 is the format 
-    that the ResXResourceWriter will generate, however the reader can 
+
+    Note - application/x-microsoft.net.object.binary.base64 is the format
+    that the ResXResourceWriter will generate, however the reader can
     read any of the formats listed below.
-    
+
     mimetype: application/x-microsoft.net.object.binary.base64
-    value   : The object must be serialized with 
+    value   : The object must be serialized with
             : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
             : and then encoded with base64 encoding.
-    
+
     mimetype: application/x-microsoft.net.object.soap.base64
-    value   : The object must be serialized with 
+    value   : The object must be serialized with
             : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
             : and then encoded with base64 encoding.
 
     mimetype: application/x-microsoft.net.object.bytearray.base64
-    value   : The object must be serialized into a byte array 
+    value   : The object must be serialized into a byte array
             : using a System.ComponentModel.TypeConverter
             : and then encoded with base64 encoding.
     -->
@@ -125,7 +125,7 @@
     <comment>Home Title</comment>
   </data>
   <data name="AppName" xml:space="preserve">
-    <value>COVID-19 Contact App</value>
+    <value>Covid19Radar</value>
     <comment>App Name</comment>
   </data>
   <data name="SettingsPageTitle" xml:space="preserve">
@@ -141,10 +141,10 @@
     <comment>ライセンス</comment>
   </data>
   <data name="UrlPrivacyPolicy" xml:space="preserve">
-    <value>https://www.mhlw.go.jp/stf/seisakunitsuite/english_pp_00032.html</value>
+    <value>https://covid19radar.z11.web.core.windows.net/sample_pp.html</value>
     <comment>Policy</comment>
   </data>
-  <data name="TitileUserStatusSettings" xml:space="preserve">
+  <data name="TitleUserStatusSettings" xml:space="preserve">
     <value>Status Settings</value>
     <comment>User Status Page Title</comment>
   </data>
@@ -163,7 +163,7 @@
     <comment>Tab Button</comment>
   </data>
   <data name="NotifyOthersLearnMoreUrl" xml:space="preserve">
-    <value>https://microsoft.com/</value>
+    <value>https://github.com/Covid-19Radar/Covid19Radar</value>
     <comment>Health care jurisdiction page</comment>
   </data>
   <data name="MainTutorial" xml:space="preserve">
@@ -567,8 +567,8 @@
     <comment>登録する</comment>
   </data>
   <data name="NotifyOtherPageDescription1" xml:space="preserve">
-    <value>Please enter a process code issued to you by "Health Center Real-time Information-sharing System on COVID-19 (HER-SYS)".</value>
-    <comment>新型コロナウイルス感染症者等情報把握・管理支援システム（HER-SYS）から発行された処理番号を入力してください。</comment>
+    <value>Please enter a process code issued to you by "Healthcare Authority Validation Code".</value>
+    <comment>Healthcare Authority Validation Codeを入力してください。</comment>
   </data>
   <data name="NotifyOtherPageDescription2" xml:space="preserve">
     <value>Users who were in close contact with you within the past 14 days will be notified. Registration is anonymous. You do not have to enter your name or any other personal information. No information regarding location of close contact is recorded.</value>
@@ -683,14 +683,14 @@
     <comment>以下の日に陽性者との接触が確認されました。</comment>
   </data>
   <data name="UrlTermOfUse" xml:space="preserve">
-    <value>https://www.mhlw.go.jp/stf/seisakunitsuite/english_rk_00031.html</value>
+    <value>https://covid19radar.z11.web.core.windows.net/sample_tu.html</value>
     <comment>Term of Use</comment>
   </data>
   <data name="UrlContactedForm" xml:space="preserve">
-    <value>https://covid19radarjpnprod.z11.web.core.windows.net/en/index.html</value>
+    <value>https://covid19radar.z11.web.core.windows.net/index.html</value>
   </data>
   <data name="UrlContactedPhone" xml:space="preserve">
-    <value>https://covid19radarjpnprod.z11.web.core.windows.net/phone.json</value>
+    <value>https://covid19radar.z11.web.core.windows.net/phone.json</value>
   </data>
   <data name="LocalNotificationDescription" xml:space="preserve">
     <value>It is possible you have been in close proximity to a user who tested positive for COVID-19.  Tap for more details.</value>
@@ -745,8 +745,8 @@
     <comment>COVID-19接触通知機能が承認されていません。各OSから承認するか、またはアプリの再インストール後に、再承認してください。</comment>
   </data>
   <data name="ExposureNotificationStatusMessageUnknown" xml:space="preserve">
-    <value>Exposure Notification is not supported. Please update the OS to the latest version. If you still have problems, please contact us at appsupport@cov19.mhlw.go.jp.</value>
-    <comment>Exposure Notification機能は非対応の状態です。OSを最新版にアップデートしてください。それでも改善しなければ、appsupport@cov19.mhlw.go.jpまでお問い合わせください。</comment>
+    <value>Exposure Notification is not supported. Please update the OS to the latest version. If you still have problems, please contact us at appsupport@yourhealthcaredivmailaddress.org.</value>
+    <comment>Exposure Notification機能は非対応の状態です。OSを最新版にアップデートしてください。それでも改善しなければ、appsupport@yourhealthcaredivmailaddress.orgまでお問い合わせください。</comment>
   </data>
   <data name="DialogNetworkConnectionErrorTitle" xml:space="preserve">
     <value>Network connection error</value>
@@ -829,11 +829,15 @@
     <comment>最新版への更新</comment>
   </data>
   <data name="UrlVersion" xml:space="preserve">
-    <value>https://covid19radarjpnprod.z11.web.core.windows.net/version.json</value>
+    <value>https://covid19radar.z11.web.core.windows.net/version.json</value>
   </data>
   <data name="ExposureNotificationHandler3ErrorMessage" xml:space="preserve">
     <value>There is a problem with the contact record data</value>
     <comment>接触記録データに問題があります</comment>
+  </data>
+  <data name="ExposureCountUnit" xml:space="preserve">
+    <value>Count</value>
+    <comment>件</comment>
   </data>
   <data name="NewsPageTitle" xml:space="preserve">
     <value>News</value>

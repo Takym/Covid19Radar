@@ -28,10 +28,10 @@
     <comment>ライセンス</comment>
   </data>
   <data name="UrlPrivacyPolicy" xml:space="preserve">
-    <value>https://www.mhlw.go.jp/stf/seisakunitsuite/english_pp_00032.html</value>
+    <value>https://covid19radar.z11.web.core.windows.net/sample_pp.html</value>
     <comment>Policy</comment>
   </data>
-  <data name="TitileUserStatusSettings" xml:space="preserve">
+  <data name="TitleUserStatusSettings" xml:space="preserve">
     <value>ಸ್ಟೇಟಸ್ ಸೆಟ್ಟಿಂಗ್ಸ್</value>
     <comment>User Status Page Title</comment>
   </data>
@@ -50,7 +50,7 @@
     <comment>Tab Button</comment>
   </data>
   <data name="NotifyOthersLearnMoreUrl" xml:space="preserve">
-    <value>https://microsoft.com/</value>
+    <value>https://github.com/Covid-19Radar/Covid19Radar</value>
     <comment>Health care jurisdiction page</comment>
   </data>
   <data name="MainTutorial" xml:space="preserve">
@@ -451,7 +451,7 @@
   </data>
   <data name="NotifyOtherPageDescription1" xml:space="preserve">
     <value>"ಆರೋಗ್ಯ ಕೇಂದ್ರ ರಿಯಲ್ ಟೈಮ್ ಇನ್ಫರ್ಮೇಷನ್-ಶೇರಿಂಗ್ ಸಿಸ್ಟಂ ಆನ್ COVID-19 (HER-SYS) ಮೂಲಕ ನಿಮಗೆ ನೀಡಲಾದ ಒಂದು ಪ್ರಕ್ರಿಯೆ ಕೋಡ್ ಅನ್ನು ದಯವಿಟ್ಟು ನಮೂದಿಸಿ.</value>
-    <comment>新型コロナウイルス感染症者等情報把握・管理支援システム（HER-SYS）から発行された処理番号を入力してください。</comment>
+    <comment>Healthcare Authority Validation Codeを入力してください。</comment>
   </data>
   <data name="NotifyOtherPageDescription2" xml:space="preserve">
     <value>ಕಳೆದ 14 ದಿನಗಳಲ್ಲಿ ನಿಮ್ಮೊಂದಿಗೆ ನಿಕಟ ಸಂಪರ್ಕ ಹೊಂದಿದ್ದ ಬಳಕೆದಾರರಿಗೆ ಸೂಚನೆ ನೀಡಲಾಗುವುದು. ನೋಂದಣಿ ಯು ಅನಾಮಧೇಯವಾಗಿದೆ. ನಿಮ್ಮ ಹೆಸರು ಅಥವಾ ಯಾವುದೇ ವೈಯಕ್ತಿಕ ಮಾಹಿತಿಯನ್ನು ನೀವು ನಮೂದಿಸುವ ಅಗತ್ಯವಿಲ್ಲ. ಹತ್ತಿರದ ಸಂಪರ್ಕದ ಸ್ಥಳದ ಬಗ್ಗೆ ಯಾವುದೇ ಮಾಹಿತಿಯನ್ನು ದಾಖಲಿಸುವುದಿಲ್ಲ.</value>
@@ -570,14 +570,14 @@
     <comment>以下の日に陽性者との接触が確認されました。</comment>
   </data>
   <data name="UrlTermOfUse" xml:space="preserve">
-    <value>https://www.mhlw.go.jp/stf/seisakunitsuite/english_rk_00031.html</value>
+    <value>https://covid19radar.z11.web.core.windows.net/sample_tu.html</value>
     <comment>Term of Use</comment>
   </data>
   <data name="UrlContactedForm" xml:space="preserve">
-    <value>https://covid19radarjpnprod.z11.web.core.windows.net/en/index.html</value>
+    <value>https://covid19radar.z11.web.core.windows.net/index.html</value>
   </data>
   <data name="UrlContactedPhone" xml:space="preserve">
-    <value>https://covid19radarjpnprod.z11.web.core.windows.net/phone.json</value>
+    <value>https://covid19radar.z11.web.core.windows.net/phone.json</value>
   </data>
   <data name="LocalNotificationDescription" xml:space="preserve">
     <value>COVID-19 ಗೆ ಧನಾತ್ಮಕ ಪರೀಕ್ಷೆ ಮಾಡಿದ ಬಳಕೆದಾರನಿಗೆ ನೀವು ಹತ್ತಿರವಾಗಿದ್ದೀರಿ.  ಹೆಚ್ಚಿನ ವಿವರಗಳಿಗೆ ಟ್ಯಾಪ್ ಮಾಡಿ.</value>
@@ -632,8 +632,8 @@
     <comment>COVID-19接触通知機能が承認されていません。各OSから承認するか、またはアプリの再インストール後に、再承認してください。</comment>
   </data>
   <data name="ExposureNotificationStatusMessageUnknown" xml:space="preserve">
-    <value>ಎಕ್ಸ್ ಪೋಶರ್ ಅಧಿಸೂಚನೆಯನ್ನು ಬೆಂಬಲಿಸುವುದಿಲ್ಲ. ದಯವಿಟ್ಟು ಇತ್ತೀಚಿನ ಆವೃತ್ತಿಗೆ OS ಅನ್ನು ಅಪ್ ಡೇಟ್ ಮಾಡಿ. ನಿಮಗೆ ಇನ್ನೂ ಸಮಸ್ಯೆಗಳಿದ್ದರೆ, ದಯವಿಟ್ಟು ನಮ್ಮನ್ನು appsupport@cov19.mhlw.go.jp ಸಂಪರ್ಕಿಸಿ.</value>
-    <comment>Exposure Notification機能は非対応の状態です。OSを最新版にアップデートしてください。それでも改善しなければ、appsupport@cov19.mhlw.go.jpまでお問い合わせください。</comment>
+    <value>ಎಕ್ಸ್ ಪೋಶರ್ ಅಧಿಸೂಚನೆಯನ್ನು ಬೆಂಬಲಿಸುವುದಿಲ್ಲ. ದಯವಿಟ್ಟು ಇತ್ತೀಚಿನ ಆವೃತ್ತಿಗೆ OS ಅನ್ನು ಅಪ್ ಡೇಟ್ ಮಾಡಿ. ನಿಮಗೆ ಇನ್ನೂ ಸಮಸ್ಯೆಗಳಿದ್ದರೆ, ದಯವಿಟ್ಟು ನಮ್ಮನ್ನು appsupport@yourhealthcaredivmailaddress.org ಸಂಪರ್ಕಿಸಿ.</value>
+    <comment>Exposure Notification機能は非対応の状態です。OSを最新版にアップデートしてください。それでも改善しなければ、appsupport@yourhealthcaredivmailaddress.orgまでお問い合わせください。</comment>
   </data>
   <data name="DialogNetworkConnectionErrorTitle" xml:space="preserve">
     <value>ನೆಟ್ವರ್ಕ್ ಸಂಪರ್ಕ ದೋಷ</value>
@@ -708,7 +708,7 @@
     <comment>該当接触なし</comment>
   </data>
   <data name="UrlVersion" xml:space="preserve">
-    <value>https://covid19radarjpnprod.z11.web.core.windows.net/version.json</value>
+    <value>https://covid19radar.z11.web.core.windows.net/version.json</value>
   </data>
   <data name="AppUtilsGetNewVersionDescription" xml:space="preserve">
     <value>ಆ್ಯಪ್ ನ ಹೊಸ ಆವೃತ್ತಿ ಲಭ್ಯವಿದೆ. ದಯವಿಟ್ಟು ಇತ್ತೀಚಿನ ಆವೃತ್ತಿಗೆ ನವೀಕರಿಸಿ.</value>

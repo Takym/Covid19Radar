@@ -28,10 +28,10 @@
     <comment>ライセンス</comment>
   </data>
   <data name="UrlPrivacyPolicy" xml:space="preserve">
-    <value>https://www.mhlw.go.jp/stf/seisakunitsuite/english_pp_00032.html</value>
+    <value>https://covid19radar.z11.web.core.windows.net/sample_pp.html</value>
     <comment>Policy</comment>
   </data>
-  <data name="TitileUserStatusSettings" xml:space="preserve">
+  <data name="TitleUserStatusSettings" xml:space="preserve">
     <value>Status settings</value>
     <comment>User Status Page Title</comment>
   </data>
@@ -50,7 +50,7 @@
     <comment>Tab Button</comment>
   </data>
   <data name="NotifyOthersLearnMoreUrl" xml:space="preserve">
-    <value>https://microsoft.com/</value>
+    <value>https://github.com/Covid-19Radar/Covid19Radar</value>
     <comment>Health care jurisdiction page</comment>
   </data>
   <data name="MainTutorial" xml:space="preserve">
@@ -451,7 +451,7 @@
   </data>
   <data name="NotifyOtherPageDescription1" xml:space="preserve">
     <value>Pakipasok ng isang code na ibinigay sa iyo ng "health center real-time na impormasyon-pagbabahagi ng sistema sa COVID-19 (ang kanyang mga ' SYS)".</value>
-    <comment>新型コロナウイルス感染症者等情報把握・管理支援システム（HER-SYS）から発行された処理番号を入力してください。</comment>
+    <comment>Healthcare Authority Validation Codeを入力してください。</comment>
   </data>
   <data name="NotifyOtherPageDescription2" xml:space="preserve">
     <value>Ang mga user na malapit nang makipag-ugnayan sa iyo sa loob ng nakalipas na 14 na araw ay Ipababatid. Hindi kilala ang pagrerehistro. Hindi mo kailangang ipasok ang iyong pangalan o anumang iba pang personal na impormasyon. Walang impormasyon tungkol sa lokasyon ng malapit na kontak ang nakatala.</value>
@@ -570,14 +570,14 @@
     <comment>以下の日に陽性者との接触が確認されました。</comment>
   </data>
   <data name="UrlTermOfUse" xml:space="preserve">
-    <value>https://www.mhlw.go.jp/stf/seisakunitsuite/english_rk_00031.html</value>
+    <value>https://covid19radar.z11.web.core.windows.net/sample_tu.html</value>
     <comment>Term of Use</comment>
   </data>
   <data name="UrlContactedForm" xml:space="preserve">
-    <value>https://covid19radarjpnprod.z11.web.core.windows.net/en/index.html</value>
+    <value>https://covid19radar.z11.web.core.windows.net/index.html</value>
   </data>
   <data name="UrlContactedPhone" xml:space="preserve">
-    <value>https://covid19radarjpnprod.z11.web.core.windows.net/phone.json</value>
+    <value>https://covid19radar.z11.web.core.windows.net/phone.json</value>
   </data>
   <data name="LocalNotificationDescription" xml:space="preserve">
     <value>Posible na ikaw ay malapit sa isang user na sinubukan ng positibo para sa COVID-19.  Tapikin ang para sa karagdagang detalye.</value>
@@ -632,8 +632,8 @@
     <comment>COVID-19接触通知機能が承認されていません。各OSから承認するか、またはアプリの再インストール後に、再承認してください。</comment>
   </data>
   <data name="ExposureNotificationStatusMessageUnknown" xml:space="preserve">
-    <value>Hindi suportado ang pagkakalantad na paunawa. Mangyaring i-update ang OS sa pinakabagong bersyon. Kung mayroon ka pa ring problema, mangyaring makipag-ugnay sa amin sa appsupport@cov19.mhlw.go.jp.</value>
-    <comment>Exposure Notification機能は非対応の状態です。OSを最新版にアップデートしてください。それでも改善しなければ、appsupport@cov19.mhlw.go.jpまでお問い合わせください。</comment>
+    <value>Hindi suportado ang pagkakalantad na paunawa. Mangyaring i-update ang OS sa pinakabagong bersyon. Kung mayroon ka pa ring problema, mangyaring makipag-ugnay sa amin sa appsupport@yourhealthcaredivmailaddress.org.</value>
+    <comment>Exposure Notification機能は非対応の状態です。OSを最新版にアップデートしてください。それでも改善しなければ、appsupport@yourhealthcaredivmailaddress.orgまでお問い合わせください。</comment>
   </data>
   <data name="DialogNetworkConnectionErrorTitle" xml:space="preserve">
     <value>Mali sa koneksiyong network</value>
@@ -708,7 +708,7 @@
     <comment>該当接触なし</comment>
   </data>
   <data name="UrlVersion" xml:space="preserve">
-    <value>https://covid19radarjpnprod.z11.web.core.windows.net/version.json</value>
+    <value>https://covid19radar.z11.web.core.windows.net/version.json</value>
   </data>
   <data name="AppUtilsGetNewVersionDescription" xml:space="preserve">
     <value>May magagamit na bagong bersiyon ng app. Mangyaring i-update sa pinakabagong bersyon.</value>

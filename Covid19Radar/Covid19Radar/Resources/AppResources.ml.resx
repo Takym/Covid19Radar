@@ -28,10 +28,10 @@
     <comment>ライセンス</comment>
   </data>
   <data name="UrlPrivacyPolicy" xml:space="preserve">
-    <value>https://www.mhlw.go.jp/stf/seisakunitsuite/english_pp_00032.html</value>
+    <value>https://covid19radar.z11.web.core.windows.net/sample_pp.html</value>
     <comment>Policy</comment>
   </data>
-  <data name="TitileUserStatusSettings" xml:space="preserve">
+  <data name="TitleUserStatusSettings" xml:space="preserve">
     <value>സ്റ്റാറ്റസ് സജ്ജീകരണങ്ങള്</value>
     <comment>User Status Page Title</comment>
   </data>
@@ -50,7 +50,7 @@
     <comment>Tab Button</comment>
   </data>
   <data name="NotifyOthersLearnMoreUrl" xml:space="preserve">
-    <value>https://microsoft.com/</value>
+    <value>https://github.com/Covid-19Radar/Covid19Radar</value>
     <comment>Health care jurisdiction page</comment>
   </data>
   <data name="MainTutorial" xml:space="preserve">
@@ -451,7 +451,7 @@
   </data>
   <data name="NotifyOtherPageDescription1" xml:space="preserve">
     <value>"COVID-19 -ലെ (HER-SYS) എന്ന തിൽ ഹെൽത്ത് സെന്റർ തത്സമയ വിവര-പങ്കിടൽ സിസ്റ്റം" എന്ന പേരിൽ നിങ്ങൾക്ക് ഇഷ്യൂ ചെയ്ത ഒരു പ്രോസസ്സ് കോഡ് നൽകുക.</value>
-    <comment>新型コロナウイルス感染症者等情報把握・管理支援システム（HER-SYS）から発行された処理番号を入力してください。</comment>
+    <comment>Healthcare Authority Validation Codeを入力してください。</comment>
   </data>
   <data name="NotifyOtherPageDescription2" xml:space="preserve">
     <value>കഴിഞ്ഞ 14 ദിവസത്തിനുള്ളിൽ നിങ്ങളുമായി അടുത്ത ബന്ധം പുലർത്തുന്ന ഉപയോക്താക്കളെ അറിയിക്കും. രജിസ്ട്രേഷൻ അജ്ഞാതമാണ്. നിങ്ങളുടെ പേരോ മറ്റേതെങ്കിലും വ്യക്തിഗത വിവരങ്ങളോ നിങ്ങൾ നൽകേണ്ടതില്ല. അടുത്ത സമ്പർക്കത്തിന്റെ സ്ഥാനം സംബന്ധിച്ച വിവരങ്ങൾ രേഖപ്പെടുത്തിയിട്ടില്ല.</value>
@@ -570,14 +570,14 @@
     <comment>以下の日に陽性者との接触が確認されました。</comment>
   </data>
   <data name="UrlTermOfUse" xml:space="preserve">
-    <value>https://www.mhlw.go.jp/stf/seisakunitsuite/english_rk_00031.html</value>
+    <value>https://covid19radar.z11.web.core.windows.net/sample_tu.html</value>
     <comment>Term of Use</comment>
   </data>
   <data name="UrlContactedForm" xml:space="preserve">
-    <value>https://covid19radarjpnprod.z11.web.core.windows.net/en/index.html</value>
+    <value>https://covid19radar.z11.web.core.windows.net/index.html</value>
   </data>
   <data name="UrlContactedPhone" xml:space="preserve">
-    <value>https://covid19radarjpnprod.z11.web.core.windows.net/phone.json</value>
+    <value>https://covid19radar.z11.web.core.windows.net/phone.json</value>
   </data>
   <data name="LocalNotificationDescription" xml:space="preserve">
     <value>COVID-19-നായി പോസിറ്റീവ് ടെസ്റ്റ് ചെയ്ത ഒരു ഉപയോക്താവിനോട് നിങ്ങൾ അടുത്താണ് എന്ന് സാധ്യതയുണ്ട്.  കൂടുതൽ വിവരങ്ങൾക്ക് ടാപ്പുചെയ്യുക.</value>
@@ -632,8 +632,8 @@
     <comment>COVID-19接触通知機能が承認されていません。各OSから承認するか、またはアプリの再インストール後に、再承認してください。</comment>
   </data>
   <data name="ExposureNotificationStatusMessageUnknown" xml:space="preserve">
-    <value>എക്സ്പോഷർ അറിയിപ്പ് പിന്തുണയ്ക്കുന്നില്ല. ഏറ്റവും പുതിയ പതിപ്പിലേക്ക് OS അപ് ഡേറ്റ് ചെയ്യുക. നിങ്ങൾക്ക് ഇപ്പോഴും പ്രശ്നങ്ങൾ ഉണ്ടെങ്കിൽ, appsupport@cov19.mhlw.go.jp ഞങ്ങളെ ബന്ധപ്പെടുക.</value>
-    <comment>Exposure Notification機能は非対応の状態です。OSを最新版にアップデートしてください。それでも改善しなければ、appsupport@cov19.mhlw.go.jpまでお問い合わせください。</comment>
+    <value>എക്സ്പോഷർ അറിയിപ്പ് പിന്തുണയ്ക്കുന്നില്ല. ഏറ്റവും പുതിയ പതിപ്പിലേക്ക് OS അപ് ഡേറ്റ് ചെയ്യുക. നിങ്ങൾക്ക് ഇപ്പോഴും പ്രശ്നങ്ങൾ ഉണ്ടെങ്കിൽ, appsupport@yourhealthcaredivmailaddress.org ഞങ്ങളെ ബന്ധപ്പെടുക.</value>
+    <comment>Exposure Notification機能は非対応の状態です。OSを最新版にアップデートしてください。それでも改善しなければ、appsupport@yourhealthcaredivmailaddress.orgまでお問い合わせください。</comment>
   </data>
   <data name="DialogNetworkConnectionErrorTitle" xml:space="preserve">
     <value>നെറ്റ് വർക്ക് കണക്ഷൻ പിശക്</value>
@@ -708,7 +708,7 @@
     <comment>該当接触なし</comment>
   </data>
   <data name="UrlVersion" xml:space="preserve">
-    <value>https://covid19radarjpnprod.z11.web.core.windows.net/version.json</value>
+    <value>https://covid19radar.z11.web.core.windows.net/version.json</value>
   </data>
   <data name="AppUtilsGetNewVersionDescription" xml:space="preserve">
     <value>ആപ്പിന്റെ പുതിയ പതിപ്പ് ലഭ്യമാണ്. ഏറ്റവും പുതിയ പതിപ്പിലേക്ക് അപ് ഡേറ്റ് ചെയ്യുക.</value>

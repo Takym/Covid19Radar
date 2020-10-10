@@ -77,6 +77,10 @@
 - Koichi Yokota (Documentation)
 - Takashi Kishida (Documentation)
 - Yusuke Yamada (Xamarin)
+- Ryosuke Nishimura
+- Yuto Takano
+- Jean-Noël Ribelles (French/English Translation)
+- Niccori 250k (Xamarin)
 - Takym (News Page)
 
 # Original Covid19Radar Beta Testers

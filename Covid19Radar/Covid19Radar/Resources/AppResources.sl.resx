@@ -28,10 +28,10 @@
     <comment>ライセンス</comment>
   </data>
   <data name="UrlPrivacyPolicy" xml:space="preserve">
-    <value>https://www.mhlw.go.jp/stf/seisakunitsuite/english_pp_00032.html</value>
+    <value>https://covid19radar.z11.web.core.windows.net/sample_pp.html</value>
     <comment>Policy</comment>
   </data>
-  <data name="TitileUserStatusSettings" xml:space="preserve">
+  <data name="TitleUserStatusSettings" xml:space="preserve">
     <value>Nastavitve stanja</value>
     <comment>User Status Page Title</comment>
   </data>
@@ -50,7 +50,7 @@
     <comment>Tab Button</comment>
   </data>
   <data name="NotifyOthersLearnMoreUrl" xml:space="preserve">
-    <value>https://microsoft.com/</value>
+    <value>https://github.com/Covid-19Radar/Covid19Radar</value>
     <comment>Health care jurisdiction page</comment>
   </data>
   <data name="MainTutorial" xml:space="preserve">
@@ -451,7 +451,7 @@
   </data>
   <data name="NotifyOtherPageDescription1" xml:space="preserve">
     <value>Vnesite šifro procesa, ki vam jo je izdala "zdravstveni center v realnem času informacijski sistem za izmenjavo informacij o COVID-19 (HER-SYS)".</value>
-    <comment>新型コロナウイルス感染症者等情報把握・管理支援システム（HER-SYS）から発行された処理番号を入力してください。</comment>
+    <comment>Healthcare Authority Validation Codeを入力してください。</comment>
   </data>
   <data name="NotifyOtherPageDescription2" xml:space="preserve">
     <value>Uporabniki, ki so bili v tesnem stiku z vami v zadnjih 14 dneh, bodo obveščeni. Registracija je anonimna. Ni vam treba vnesti svojega imena ali drugih osebnih podatkov. Podatki o lokaciji tesnega stika niso zabeleženi.</value>
@@ -570,14 +570,14 @@
     <comment>以下の日に陽性者との接触が確認されました。</comment>
   </data>
   <data name="UrlTermOfUse" xml:space="preserve">
-    <value>https://www.mhlw.go.jp/stf/seisakunitsuite/english_rk_00031.html</value>
+    <value>https://covid19radar.z11.web.core.windows.net/sample_tu.html</value>
     <comment>Term of Use</comment>
   </data>
   <data name="UrlContactedForm" xml:space="preserve">
-    <value>https://covid19radarjpnprod.z11.web.core.windows.net/en/index.html</value>
+    <value>https://covid19radar.z11.web.core.windows.net/index.html</value>
   </data>
   <data name="UrlContactedPhone" xml:space="preserve">
-    <value>https://covid19radarjpnprod.z11.web.core.windows.net/phone.json</value>
+    <value>https://covid19radar.z11.web.core.windows.net/phone.json</value>
   </data>
   <data name="LocalNotificationDescription" xml:space="preserve">
     <value>Možno je, da ste bili v neposredni bližini uporabnika, ki je pozitivno testiral za COVID-19.  Tapnite za več podrobnosti.</value>
@@ -632,8 +632,8 @@
     <comment>COVID-19接触通知機能が承認されていません。各OSから承認するか、またはアプリの再インストール後に、再承認してください。</comment>
   </data>
   <data name="ExposureNotificationStatusMessageUnknown" xml:space="preserve">
-    <value>Obvestilo o izpostavljenosti ni podprto. Prosimo, posodobite OS na najnovejšo različico. Če imate še vedno težave, nam pišite na appsupport@cov19.mhlw.go.jp.</value>
-    <comment>Exposure Notification機能は非対応の状態です。OSを最新版にアップデートしてください。それでも改善しなければ、appsupport@cov19.mhlw.go.jpまでお問い合わせください。</comment>
+    <value>Obvestilo o izpostavljenosti ni podprto. Prosimo, posodobite OS na najnovejšo različico. Če imate še vedno težave, nam pišite na appsupport@yourhealthcaredivmailaddress.org.</value>
+    <comment>Exposure Notification機能は非対応の状態です。OSを最新版にアップデートしてください。それでも改善しなければ、appsupport@yourhealthcaredivmailaddress.orgまでお問い合わせください。</comment>
   </data>
   <data name="DialogNetworkConnectionErrorTitle" xml:space="preserve">
     <value>Napaka omrežne povezave</value>
@@ -708,7 +708,7 @@
     <comment>該当接触なし</comment>
   </data>
   <data name="UrlVersion" xml:space="preserve">
-    <value>https://covid19radarjpnprod.z11.web.core.windows.net/version.json</value>
+    <value>https://covid19radar.z11.web.core.windows.net/version.json</value>
   </data>
   <data name="AppUtilsGetNewVersionDescription" xml:space="preserve">
     <value>Na voljo je nova različica aplikacije. Prosimo, posodobite na najnovejšo različico.</value>
