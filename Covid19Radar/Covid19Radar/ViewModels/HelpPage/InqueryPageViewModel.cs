@@ -4,7 +4,6 @@ using System.Diagnostics;
 using Covid19Radar.Resources;
 using Xamarin.Essentials;
 using Xamarin.Forms;
-using Xamarin.Essentials;
 
 namespace Covid19Radar.ViewModels
 {
@@ -62,11 +61,11 @@ namespace Covid19Radar.ViewModels
                 };
                 await Email.ComposeAsync(message);
             }
-            catch (FeatureNotSupportedException fbsEx)
+            catch (FeatureNotSupportedException)
             {
                 // Email is not supported on this device
             }
-            catch (Exception ex)
+            catch (Exception)
             {
                 // Some other exception occurred
             }

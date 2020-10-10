@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<xliff xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd" version="1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:oasis:names:tc:xliff:document:1.2">
-  <file build-num="n/a" product-version="n/a" product-name="n/a" tool-id="MultilingualAppToolkit" original="COVID19RADAR/RESOURCES/APPRESOURCES.RESX" target-language="is" source-language="en-US" datatype="xml">
+<xliff version="1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:oasis:names:tc:xliff:document:1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file build-num="n/a" product-version="n/a" product-name="n/a" tool-id="MultilingualAppToolkit" original="COVID19RADAR/RESOURCES/APPRESOURCES.RESX" target-language="ceb" source-language="en-US" datatype="xml">
     <header>
       <tool tool-company="Microsoft" tool-version="4.0.6915.0" tool-name="Multilingual App Toolkit" tool-id="MultilingualAppToolkit"/>
     </header>

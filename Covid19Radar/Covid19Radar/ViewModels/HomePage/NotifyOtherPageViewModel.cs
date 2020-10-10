@@ -141,7 +141,7 @@ namespace Covid19Radar.ViewModels
                 );
                 await NavigationService.NavigateAsync("/" + nameof(MenuPage) + "/" + nameof(NavigationPage) + "/" + nameof(HomePage));
             }
-            catch (InvalidDataException ex)
+            catch (InvalidDataException)
             {
                 errorCount++;
                 UserDialogs.Instance.Alert(
@@ -150,7 +150,7 @@ namespace Covid19Radar.ViewModels
                     Resources.AppResources.ButtonOk
                 );
             }
-            catch (Exception ex)
+            catch (Exception)
             {
                 errorCount++;
                 UserDialogs.Instance.Alert(

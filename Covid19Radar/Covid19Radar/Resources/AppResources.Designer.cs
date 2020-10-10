@@ -1483,20 +1483,20 @@ namespace Covid19Radar.Resources {
         }
         
         /// <summary>
-        ///   Status Settings に類似しているローカライズされた文字列を検索します。
-        /// </summary>
-        internal static string TitleUserStatusSettings {
-            get {
-                return ResourceManager.GetString("TitleUserStatusSettings", resourceCulture);
-            }
-        }
-        
-        /// <summary>
         ///   License に類似しているローカライズされた文字列を検索します。
         /// </summary>
         internal static string TitleLicenseAgreement {
             get {
                 return ResourceManager.GetString("TitleLicenseAgreement", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Status Settings に類似しているローカライズされた文字列を検索します。
+        /// </summary>
+        internal static string TitleUserStatusSettings {
+            get {
+                return ResourceManager.GetString("TitleUserStatusSettings", resourceCulture);
             }
         }
         

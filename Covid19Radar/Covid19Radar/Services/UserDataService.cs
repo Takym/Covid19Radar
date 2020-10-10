@@ -70,6 +70,7 @@ namespace Covid19Radar.Services
             current = null;
             SecureStorage.Remove(AppConstants.StorageKey.UserData);
             SecureStorage.Remove(AppConstants.StorageKey.Secret);
+            await Task.CompletedTask;
         }
     }
 

@@ -830,6 +830,7 @@
   <data name="ExposureCountUnit" xml:space="preserve">
     <value>Count</value>
     <comment>件</comment>
+  </data>
   <data name="NewsPageTitle" xml:space="preserve">
     <value>News</value>
     <comment>最新情報ページ</comment>

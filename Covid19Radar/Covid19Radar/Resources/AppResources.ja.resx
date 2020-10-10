@@ -725,6 +725,7 @@
   <data name="ExposureCountUnit" xml:space="preserve">
     <value>件</value>
     <comment>件</comment>
+  </data>
   <data name="NewsPageTitle" xml:space="preserve">
     <value>最新情報</value>
     <comment>最新情報ページ</comment>
@@ -737,11 +738,11 @@
     <value>最新情報をGoogleで検索</value>
     <comment></comment>
   </data>
-	<data name="StopCOVID19JPUrl" xml:space="preserve">
+  <data name="StopCOVID19JPUrl" xml:space="preserve">
     <value>https://www.stopcovid19.jp/#ja</value>
     <comment></comment>
   </data>
-	<data name="NewsPageButton_ShowStopCOVID19JP" xml:space="preserve">
+  <data name="NewsPageButton_ShowStopCOVID19JP" xml:space="preserve">
     <value>対策ダッシュボード</value>
     <comment></comment>
   </data>
